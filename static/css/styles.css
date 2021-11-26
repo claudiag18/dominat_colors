@@ -1,0 +1,22 @@
+body {
+   background-color: #EEEBDD;
+}
+
+.container {
+    margin-top: 60px;
+}
+
+h4, h2 {
+   color: #B91646;
+}
+
+.image {
+    width: 300px;
+    height:300px;
+}
+
+.color_list {
+    background-color:white;
+    width:30%;
+    border:2px solid black;
+}
